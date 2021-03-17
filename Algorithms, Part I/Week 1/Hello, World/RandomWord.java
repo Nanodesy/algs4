@@ -9,7 +9,7 @@ import edu.princeton.cs.algs4.StdRandom;
  * probability 1/i to be the champion, replacing the previous champion. After
  * reading all of the words, print the surviving champion.
  */
-class RandomWord {
+public class RandomWord {
     public static void main(String[] args) {
         String result = "";
         for (int i = 1; !StdIn.isEmpty(); i++) {

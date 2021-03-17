@@ -2,7 +2,7 @@
  * This class print "Hello" (in straight order) and "Goodbye"
  * (in reversed order) for two program arguments.
  */
-class HelloGoodbye {
+public class HelloGoodbye {
     /**
      * @param args read only first two arguments.
      */
