@@ -7,9 +7,7 @@ assignees: Nanodesy
 
 ---
 
-# Describe Assignment
-
-## Subtasks
+# Assignment name
 
 ### Subtask 1
 

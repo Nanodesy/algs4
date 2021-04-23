@@ -7,10 +7,10 @@ assignees: Nanodesy
 
 ---
 
-# Describe interview questions
+# Interview name
 
-### Question 1
+### Question 1.
 
-### Question 2
+### Question 2.
 
-### Question 3
+### Question 3.
